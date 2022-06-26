@@ -1,0 +1,5 @@
+pociąg
+Nadawca:1|Jan|Kowalski|02312107056|typ kontenera:3.ciężki, chłodniczy|id kontenera:5|waga brutto:1200|waga netto:900|nr certyfikatu:5555|zabezpieczenia:klatka Faradaya|napięcie:350|
+Nadawca:4|Kazimierz|Polak|93013047337|typ kontenera:6.ciężki, na materiały toksyczne ciekłe|id kontenera:6|waga brutto:950|waga netto:800|nr certyfikatu:4321|zabezpieczenia:klamry mocujące, ubranie chroniące przed substancjami toksycznymi|poziom toksyczności:4.5|gęstość:7.8|
+Nadawca:5|Włodzimierz|Lewandowski|89121291858|typ kontenera:2.ciężki, z materiałami wybuchowymi|id kontenera:13|waga brutto:1100|waga netto:1000|nr certyfikatu:3421|zabezpieczenia:brak|wybuchowość:2|
+;

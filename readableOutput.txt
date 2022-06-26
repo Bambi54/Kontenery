@@ -1,0 +1,53 @@
+Data: 2022-06-03
+Ilość otrzymanych ostrzeżeń: 2
+Magazyn: 
+	Kontenery:
+		-Kontener 4 od 3. Anna Zalewska ur. 1964-07-09, typ kontenera: podstawowy,
+			waga brutto: 800kg, tara: 150kg, nr certyfikatu: 9921, data utylizacji: null
+
+
+Pociąg: 
+	Kontenery:
+		-Kontener 5 od 1. Jan Kowalski ur. 2002-11-21, typ kontenera: ciężki, chłodniczy,
+			waga brutto: 1200kg, tara: 300kg, nr certyfikatu: 5555, zabezpieczenia: klatka Faradaya, napięcie: 350V
+
+		-Kontener 6 od 4. Kazimierz Polak ur. 1993-01-30, typ kontenera: ciężki, na materiały toksyczne ciekłe,
+			waga brutto: 950kg, tara: 150kg, nr certyfikatu: 4321, zabezpieczenia: klamry mocujące, ubranie chroniące przed substancjami toksycznymi, ld50: 4.5mg/kg masy ciała, gęstość: 7.8kg/m^3
+
+		-Kontener 13 od 5. Włodzimierz Lewandowski ur. 1989-12-12, typ kontenera: ciężki, z materiałami wybuchowymi,
+			waga brutto: 1100kg, tara: 100kg, nr certyfikatu: 3421, zabezpieczenia: brak, wybuchowość: 2kt
+
+
+Statek: 1. Czarna bandera, port macierzysty: Sopot, max waga: 27100, max ilość kontenerów: 20, max ilość kontenerów ciężkich: 10, max ilość kontenerów toksycznych i wybuchowych: 3, max ilość kontenerów chłodniczych: 5,
+	Kontenery: 
+		-Kontener 7 od 5. Włodzimierz Lewandowski ur. 1989-12-12, typ kontenera: ciężki, chłodniczy,
+			waga brutto: 1000kg, tara: 100kg, nr certyfikatu: 3219, zabezpieczenia: klatka Faradaya, napięcie: 450V
+
+		-Kontener 8 od 1. Jan Kowalski ur. 2002-11-21, typ kontenera: ciężki, z materiałami wybuchowymi,
+			waga brutto: 1200kg, tara: 200kg, nr certyfikatu: 8877, zabezpieczenia: brak, wybuchowość: 8kt
+
+		-Kontener 9 od 2. Jane Doe ur. 2000-11-17, typ kontenera: ciężki,
+			waga brutto: 2100kg, tara: 300kg, nr certyfikatu: 5515, zabezpieczenia: bloki mocujące
+
+
+Statek: 2. Sokole oko, port macierzysty: Gdańsk, max waga: 38250, max ilość kontenerów: 25, max ilość kontenerów ciężkich: 15, max ilość kontenerów toksycznych i wybuchowych: 8, max ilość kontenerów chłodniczych: 5,
+	Kontenery: 
+		-Kontener 10 od 3. Anna Zalewska ur. 1964-07-09, typ kontenera: ciężki, chłodniczy,
+			waga brutto: 850kg, tara: 100kg, nr certyfikatu: 4401, zabezpieczenia: klatka Faradaya, obuwie gumowe, napięcie: 230V
+
+		-Kontener 11 od 4. Kazimierz Polak ur. 1993-01-30, typ kontenera: ciężki, z materiałami wybuchowymi,
+			waga brutto: 1400kg, tara: 200kg, nr certyfikatu: 9905, zabezpieczenia: brak, wybuchowość: 4kt
+
+
+Statek: 4. Syrenka, port macierzysty: Singapur, max waga: 47000, max ilość kontenerów: 30, max ilość kontenerów ciężkich: 15, max ilość kontenerów toksycznych i wybuchowych: 10, max ilość kontenerów chłodniczych: 5,
+	Kontenery: 
+		-Kontener 14 od 2. Jane Doe ur. 2000-11-17, typ kontenera: ciężki, chłodniczy,
+			waga brutto: 1000kg, tara: 100kg, nr certyfikatu: 8890, zabezpieczenia: klatka Faradaya, napięcie: 450V
+
+
+Statek: 5. nowy statek, port macierzysty: Gdańsk, max waga: 37000, max ilość kontenerów: 30, max ilość kontenerów ciężkich: 20, max ilość kontenerów toksycznych i wybuchowych: 10, max ilość kontenerów chłodniczych: 5,
+	Kontenery: 
+		-Kontener 15 od 6. Aleksander Krzysztof Babij ur. 2002-11-13, typ kontenera: ciężki, z materiałami wybuchowymi,
+			waga brutto: 1000kg, tara: 100kg, nr certyfikatu: 123, zabezpieczenia: brak zabezpieczeń, wybuchowość: 6kt
+
+

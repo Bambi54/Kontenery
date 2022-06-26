@@ -1,0 +1,7 @@
+nadawca|3|Anna|Zalewska|64070981526|
+nadawca|1|Jan|Kowalski|02312107056|
+nadawca|4|Kazimierz|Polak|93013047337|
+nadawca|5|Włodzimierz|Lewandowski|89121291858|
+nadawca|2|Jane|Doe|00311751868|
+nadawca|6|Aleksander Krzysztof|Babij|02311307056|
+/

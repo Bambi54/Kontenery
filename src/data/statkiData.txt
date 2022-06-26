@@ -1,0 +1,16 @@
+statek
+Nazwa:Czarna bandera|id:1|port macierzysty:Sopot|maksymalna waga:27100|maksymalna ilość kontenerów:20|ilość kontenerów ciężkich:10|ilość kontenerów toksycznych i wybuchowych:3|ilość kontenerów chłodniczych:5|
+Nadawca:5|Włodzimierz|Lewandowski|89121291858|typ kontenera:3.ciężki, chłodniczy|id kontenera:7|waga brutto:1000|waga netto:900|nr certyfikatu:3219|zabezpieczenia:klatka Faradaya|napięcie:450|
+Nadawca:1|Jan|Kowalski|02312107056|typ kontenera:2.ciężki, z materiałami wybuchowymi|id kontenera:8|waga brutto:1200|waga netto:1000|nr certyfikatu:8877|zabezpieczenia:brak|wybuchowość:8|
+Nadawca:2|Jane|Doe|00311751868|typ kontenera:1.ciężki|id kontenera:9|waga brutto:2100|waga netto:1800|nr certyfikatu:5515|zabezpieczenia:bloki mocujące|
+;statek
+Nazwa:Sokole oko|id:2|port macierzysty:Gdańsk|maksymalna waga:38250|maksymalna ilość kontenerów:25|ilość kontenerów ciężkich:15|ilość kontenerów toksycznych i wybuchowych:8|ilość kontenerów chłodniczych:5|
+Nadawca:3|Anna|Zalewska|64070981526|typ kontenera:3.ciężki, chłodniczy|id kontenera:10|waga brutto:850|waga netto:750|nr certyfikatu:4401|zabezpieczenia:klatka Faradaya, obuwie gumowe|napięcie:230|
+Nadawca:4|Kazimierz|Polak|93013047337|typ kontenera:2.ciężki, z materiałami wybuchowymi|id kontenera:11|waga brutto:1400|waga netto:1200|nr certyfikatu:9905|zabezpieczenia:brak|wybuchowość:4|
+;statek
+Nazwa:Syrenka|id:4|port macierzysty:Singapur|maksymalna waga:47000|maksymalna ilość kontenerów:30|ilość kontenerów ciężkich:15|ilość kontenerów toksycznych i wybuchowych:10|ilość kontenerów chłodniczych:5|
+Nadawca:2|Jane|Doe|00311751868|typ kontenera:3.ciężki, chłodniczy|id kontenera:14|waga brutto:1000|waga netto:900|nr certyfikatu:8890|zabezpieczenia:klatka Faradaya|napięcie:450|
+;statek
+Nazwa:nowy statek|id:5|port macierzysty:Gdańsk|maksymalna waga:37000|maksymalna ilość kontenerów:30|ilość kontenerów ciężkich:20|ilość kontenerów toksycznych i wybuchowych:10|ilość kontenerów chłodniczych:5|
+Nadawca:6|Aleksander Krzysztof|Babij|02311307056|typ kontenera:2.ciężki, z materiałami wybuchowymi|id kontenera:15|waga brutto:1000|waga netto:900|nr certyfikatu:123|zabezpieczenia:brak zabezpieczeń|wybuchowość:6|
+;/

@@ -1,0 +1,3 @@
+magazyn: max ilość kontenerów|48|
+Nadawca:3|Anna|Zalewska|64070981526|typ kontenera:0.podstawowy|id kontenera:4|waga brutto:800|waga netto:650|nr certyfikatu:9921|null|
+;
